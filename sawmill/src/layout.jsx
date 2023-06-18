@@ -1,12 +1,12 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
 
-const Home = () => {
+const Layout = () => {
   return (
     <div>
-        <h1>HOME</h1>
+        <h1>Layout</h1>
     </div>
   );
 };
 
-export default Home;
+export default Layout;

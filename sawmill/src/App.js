@@ -1,15 +1,15 @@
 import React from 'react';
-import { BrowserRouter as Router, Route} from 'react-router-dom';
-import './App.css';
-import Home from './home';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Home from './home.jsx';
+
 
 function App() {
   return (
     <Router>
-      <Route>
-        <Route exact path="/" component={Home} />
+      <Routes>
+        <Route path="/home" element={<Home />} />
         {/* Add more routes for other components */}
-      </Route>
+      </Routes>
     </Router>
   );
 }
