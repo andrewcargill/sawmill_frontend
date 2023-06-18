@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
 
-const MyComponent = () => {
+const Home = () => {
   return (
     <div>
       <Button variant="primary">Primary Button</Button>
@@ -10,4 +10,4 @@ const MyComponent = () => {
   );
 };
 
-export default MyComponent;
+export default Home;
