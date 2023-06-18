@@ -1,10 +1,11 @@
 import React from 'react';
+import { Button } from 'react-bootstrap';
 
 const Home = () => {
   return (
     <div>
-      <h1>Home Page</h1>
-      {/* Add your content for the Home page */}
+      <h1>HOME</h1>
+      <Button variant="primary">Test Button</Button>
     </div>
   );
 };
