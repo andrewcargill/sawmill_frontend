@@ -1,6 +1,6 @@
 {
   "name": "sawmill_frontend",
-  "homepage": "https://andrewcargill.github.io/",
+  "homepage": "https://andrewcargill.github.io/sawmill_frontend/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
