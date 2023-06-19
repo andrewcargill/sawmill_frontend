@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sawmill_frontend/static/css/main.d20202a4.css",
+    "main.js": "/sawmill_frontend/static/js/main.5dd34e68.js",
+    "static/js/787.8eccab53.chunk.js": "/sawmill_frontend/static/js/787.8eccab53.chunk.js",
+    "index.html": "/sawmill_frontend/index.html",
+    "main.d20202a4.css.map": "/sawmill_frontend/static/css/main.d20202a4.css.map",
+    "main.5dd34e68.js.map": "/sawmill_frontend/static/js/main.5dd34e68.js.map",
+    "787.8eccab53.chunk.js.map": "/sawmill_frontend/static/js/787.8eccab53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20202a4.css",
+    "static/js/main.5dd34e68.js"
+  ]
+}
